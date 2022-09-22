@@ -2,7 +2,7 @@
 
 
 - 🔭 Hoje sou estudante de Engenharia Eletrônica atualmente no 7° período.
-- 🌱 Buscando sempre aprender, estudEI HTML, CCS3 e Javascript através do bootcamp Decola Tech.
+- 🌱 Buscando sempre aprender, estudei HTML, CCS3 e Javascript através do bootcamp Decola Tech.
 - 🌱 Estudando Python com ênfase em análise de dados plotagem de gráficos através do boocamp Diversidade Tech da Let's Code.
 - 📫 contate-me no email IlmenEmmanuel@outlook.com 
 - 😄 ele/dele
